@@ -1,4 +1,4 @@
-package arrays.duplicates_in_sorted_array;
+package arrays.duplicatesinsortedarray;
 
 /**  Remove Duplicates from Sorted Array
  Given a sorted array nums, remove the duplicates in-place such that each element
