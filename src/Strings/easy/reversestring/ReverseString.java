@@ -1,4 +1,4 @@
-package Strings.reversestring;
+package Strings.easy.reversestring;
 
 /**
  * Write a function that reverses a string. The input string is given as an array of characters char[].
