@@ -17,7 +17,7 @@ import java.util.HashMap;
  * Output: 4
  */
 public class SingleNumber {
-    public static int singleNumber(int[] nums) {
+    private static int singleNumber(int[] nums) {
         HashMap<Integer, Integer> countOccurrences = new HashMap<>();
         for (int number : nums) {
             if (countOccurrences.containsKey(number)) {
@@ -37,6 +37,6 @@ public class SingleNumber {
 
     public static void main(String[] args) {
         int[] intInput = {4, 1, 2, 1, 2};
-        singleNumber(intInput);
+        System.out.println(singleNumber(intInput));
     }
 }
