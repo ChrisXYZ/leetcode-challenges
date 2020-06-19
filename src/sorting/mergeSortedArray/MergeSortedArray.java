@@ -1,4 +1,4 @@
-package sorting.easy.mergeSortedArray;
+package sorting.mergeSortedArray;
 
 /**
  * Merge Sorted Array

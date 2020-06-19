@@ -1,4 +1,4 @@
-package Strings.easy.validanagram;
+package Strings.validanagram;
 
 /**
  * Given two strings s and t , write a function to determine if t is an anagram of s.

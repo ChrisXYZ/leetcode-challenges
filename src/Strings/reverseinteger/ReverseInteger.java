@@ -1,4 +1,4 @@
-package Strings.easy.reverseinteger;
+package Strings.reverseinteger;
 
 /**
  * Given a 32-bit signed integer, reverse digits of an integer.

@@ -1,4 +1,4 @@
-package Strings.easy.longestSubString;
+package Strings.longestSubString;
 
 /**
  * 3. Longest Substring Without Repeating Characters

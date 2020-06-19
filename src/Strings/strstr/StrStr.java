@@ -1,4 +1,4 @@
-package Strings.easy.strstr;
+package Strings.strstr;
 
 /**
  * Implement strStr().
