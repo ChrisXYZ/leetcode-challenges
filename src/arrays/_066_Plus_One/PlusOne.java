@@ -1,4 +1,4 @@
-package arrays._66_Plus_One;
+package arrays._066_Plus_One;
 
 public class PlusOne {
     public int[] plusOne(int[] digits) {
