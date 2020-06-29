@@ -29,6 +29,7 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 
 ## Sorting
 1. [Merge Sorted Array](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/sorting/_088_Merge_Sorted_Array)
+2. [Merge Sorted List](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/sorting/_029_Merge_Sorted_List)
 
 ## Binary Tree
 1. [Max Depth Of Binary Tree](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/binaryTree/_104_Maximum_Depth_of_Binary_Tree)
