@@ -32,3 +32,6 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 
 ## Binary Tree
 1. [Max Depth Of Binary Tree](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/binaryTree/_104_Maximum_Depth_of_Binary_Tree)
+
+## Recursion
+1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
