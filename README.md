@@ -36,3 +36,4 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 
 ## Recursion
 1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+2. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
