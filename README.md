@@ -16,10 +16,11 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 1. [Two Sum ](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_001_Two_Sum)
 2. [Remove Duplicates from a Sorted Array ](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_026_Remove_Duplicates_from_Sorted_Array)
 3. [Plus One ](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_066_Plus_One)
-4. [Best Time To Buy and Sell Stocks II](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_122_Best_Time_to_Buy_and_Sell_Stock_II)
-5. [Single Number](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_136_Single_Number)
-6. [Contains Duplicates](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_217_Contains_Duplicates)
-7. [Running Sum of 1d Array](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_1480_Running_Sum_of_1d_Array)
+4. [Best Time To Buy and Sell Stocks](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_122_Best_Time_to_Buy_and_Sell_Stock)
+5. [Best Time To Buy and Sell Stocks II](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_122_Best_Time_to_Buy_and_Sell_Stock_II)
+6. [Single Number](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_136_Single_Number)
+7. [Contains Duplicates](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_217_Contains_Duplicates)
+8. [Running Sum of 1d Array](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_1480_Running_Sum_of_1d_Array)
 
 ## Math
 1. [Fizz Buzz](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_412_Fizz_Buzz)

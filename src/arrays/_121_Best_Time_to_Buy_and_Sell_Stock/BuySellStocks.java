@@ -1,13 +1,15 @@
-package arrays._122._Best_Time_to_Buy_and_Sell_Stock_II;
+package arrays._121_Best_Time_to_Buy_and_Sell_Stock;
 
 public class BuySellStocks {
 
 
     public static int maxProfit(int[] prices) {
         int maxDiff = 0;
-        for (int i = 1; i < prices.length; i++) {
-            if (prices[i] > prices[i - 1]) {
-                maxDiff = maxDiff + (prices[i] - prices[i - 1]);
+        int tempDiff;
+        for (int i = 0; i < prices.length; i++) {
+            for (int j = i; j < prices.length; j++) {
+                tempDiff = prices[j] - prices[i];
+                if (tempDiff > maxDiff) maxDiff = tempDiff;
             }
         }
         return maxDiff;
