@@ -13,7 +13,7 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 8. [First Unique Character In a String](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_387_First_Unique_Character_in_a_String)
 
 ## Integer 
-1.  [Subtract the Product and Sum of Digits of an Integer](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/integer/_1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer)
+1.  [Subtract the Product and Sum of Digits of an Integer](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/integer/_1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer)
 
 ## Arrays
 1. [Two Sum ](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_001_Two_Sum)
@@ -28,7 +28,7 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 
 ## Math
 1. [Fizz Buzz](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_412_Fizz_Buzz)
-2. [Number of Steps to Reduce a Number to Zero](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_1342_Number_of_Steps_to_reduce_a_Number_to_zero)
+2. [Number of Steps to Reduce a Number to Zero](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_1342_Number_of_Steps_to_Reduce_a_Number_to_Zero)
 
 ## LinkedList
 1. [Palindrome Linked List](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/linkedlist/_234_Palindrome_Linked_List)
