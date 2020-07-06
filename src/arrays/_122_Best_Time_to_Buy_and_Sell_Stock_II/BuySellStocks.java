@@ -1,4 +1,4 @@
-package arrays._122._Best_Time_to_Buy_and_Sell_Stock_II;
+package arrays._122_Best_Time_to_Buy_and_Sell_Stock_II;
 
 public class BuySellStocks {
 

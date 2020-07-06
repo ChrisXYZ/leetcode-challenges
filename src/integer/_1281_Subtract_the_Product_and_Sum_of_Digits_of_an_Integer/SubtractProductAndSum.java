@@ -1,4 +1,4 @@
-package integer_1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer;
+package integer._1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer;
 
 public class SubtractProductAndSum {
     public static int subtractProductAndSum(int n) {
