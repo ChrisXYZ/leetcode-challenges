@@ -43,5 +43,5 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 2. [Merge Two Binary Trees](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/binaryTree/_617_Merge_Two_Binary_Trees)
 
 ## Recursion
-1. [Fibonacci Number]((https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/recursion/_509_Fibonacci_Number))
+1. [Fibonacci Number](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/recursion/_509_Fibonacci_Number)
 2. [Pascal's Triangle](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/recursion/_118_PascalS_Triangle)
