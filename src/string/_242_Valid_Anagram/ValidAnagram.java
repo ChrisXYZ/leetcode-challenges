@@ -1,4 +1,4 @@
-package Strings._242_Valid_Anagram;
+package string._242_Valid_Anagram;
 
 public class ValidAnagram {
 

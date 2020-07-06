@@ -1,4 +1,4 @@
-package Strings._020_Valid_Parentheses;
+package string._020_Valid_Parentheses;
 
 import java.util.Stack;
 

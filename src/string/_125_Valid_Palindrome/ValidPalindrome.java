@@ -1,4 +1,4 @@
-package Strings._125_Valid_Palindrome;
+package string._125_Valid_Palindrome;
 
 public class ValidPalindrome {
 

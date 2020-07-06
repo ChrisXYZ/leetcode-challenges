@@ -1,4 +1,4 @@
-package Strings._028_Implement_strStr;
+package string._028_Implement_strStr;
 
 public class StrStr {
     public static int strStr(String haystack, String needle) {

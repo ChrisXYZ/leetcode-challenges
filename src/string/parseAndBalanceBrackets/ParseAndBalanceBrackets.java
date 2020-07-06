@@ -1,4 +1,4 @@
-package Strings.parseAndBalanceBrackets;
+package string.parseAndBalanceBrackets;
 
 public class ParseAndBalanceBrackets {
 

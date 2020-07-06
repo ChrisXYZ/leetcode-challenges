@@ -1,4 +1,4 @@
-package Strings._007_Reverse_Integer;
+package string._007_Reverse_Integer;
 
 public class ReverseInteger {
 

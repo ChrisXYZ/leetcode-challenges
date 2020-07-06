@@ -12,6 +12,9 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 7. [Reverse String](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_344_Reverse_String)
 8. [First Unique Character In a String](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_387_First_Unique_Character_in_a_String)
 
+## Integer 
+1.  [Subtract the Product and Sum of Digits of an Integer](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/integer/_1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer)
+
 ## Arrays
 1. [Two Sum ](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_001_Two_Sum)
 2. [Remove Duplicates from a Sorted Array ](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_026_Remove_Duplicates_from_Sorted_Array)
@@ -21,6 +24,7 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 6. [Single Number](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_136_Single_Number)
 7. [Contains Duplicates](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_217_Contains_Duplicates)
 8. [Running Sum of 1d Array](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_1480_Running_Sum_of_1d_Array)
+9. [How Many Numbers Are Smaller Than the Current Number](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_1365_How_Many_Numbers_Are_Small_Than_the_Current_Number)
 
 ## Math
 1. [Fizz Buzz](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_412_Fizz_Buzz)

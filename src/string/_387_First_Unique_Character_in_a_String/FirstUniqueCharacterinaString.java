@@ -1,4 +1,4 @@
-package Strings._387_First_Unique_Character_in_a_String;
+package string._387_First_Unique_Character_in_a_String;
 
 public class FirstUniqueCharacterinaString {
 
