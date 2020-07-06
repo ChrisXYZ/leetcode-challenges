@@ -44,4 +44,4 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 
 ## Recursion
 1. [Fibonacci Number](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/recursion/_509_Fibonacci_Number)
-2. [Pascal's Triangle](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/recursion/_118_PascalS_Triangle)
+2. [Pascal's Triangle](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/recursion/_118_Pascals_Triangle)
