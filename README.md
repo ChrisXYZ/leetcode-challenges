@@ -3,14 +3,14 @@
 A repository containing all my completed coding challenges from LeetCode. I do not own the rights to the questions and am just saving my submissions for the purposes of revision.
 
 ##  String Challenges 
-1. [Longest Substring Without Repeating Characters](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/Strings/_003_Longest_Substring_Without_Repeating_Characters)
-2. [Reverse Integer](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_007_Reverse_Integer)
-3. [Implement StrStr()](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_028_Implement_strStr)
-4. [Valid Parentheses](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_020_Valid_Parentheses)
-5. [Valid Palindrome](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_125_Valid_Palindrome)
-6. [Valid Anagram](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_242_Valid_Anagram)
-7. [Reverse String](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_344_Reverse_String)
-8. [First Unique Character In a String](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/Strings/_387_First_Unique_Character_in_a_String)
+1. [Longest Substring Without Repeating Characters](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_003_Longest_Substring_Without_Repeating_Characters)
+2. [Reverse Integer](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_007_Reverse_Integer)
+3. [Implement StrStr()](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_028_Implement_strStr)
+4. [Valid Parentheses](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_020_Valid_Parentheses)
+5. [Valid Palindrome](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_125_Valid_Palindrome)
+6. [Valid Anagram](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_242_Valid_Anagram)
+7. [Reverse String](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_344_Reverse_String)
+8. [First Unique Character In a String](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_387_First_Unique_Character_in_a_String)
 
 ## Integer 
 1.  [Subtract the Product and Sum of Digits of an Integer](https://github.com/ChrisXYZ/leetcode-challenges\ges/tree/master/src/integer/_1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer)
