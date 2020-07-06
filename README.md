@@ -19,10 +19,12 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 4. [Best Time To Buy and Sell Stocks II](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_122_Best_Time_to_Buy_and_Sell_Stock_II)
 5. [Single Number](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_136_Single_Number)
 6. [Contains Duplicates](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_217_Contains_Duplicates)
+7. [Running Sum of 1d Array](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_1480_Running_Sum_of_1d_Array)
 
 ## Math
 1. [Fizz Buzz](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_412_Fizz_Buzz)
- 
+2. [Number of Steps to Reduce a Number to Zero](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/_1342_Number_of_Steps_to_reduce_a_Number_to_zero)
+
 ## LinkedList
 1. [Palindrome Linked List](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/linkedlist/_234_Palindrome_Linked_List)
 2. [Delete Node in a Linked List](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/linkedlist/_237_Delete_Node_in_a_Linked_List)
@@ -33,7 +35,8 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 
 ## Binary Tree
 1. [Max Depth Of Binary Tree](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/binaryTree/_104_Maximum_Depth_of_Binary_Tree)
+2. [Merge Two Binary Trees](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/binaryTree/_617_Merge_Two_Binary_Trees)
 
 ## Recursion
-1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
-2. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+1. [Fibonacci Number]((https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/recursion/_509_Fibonacci_Number))
+2. [Pascal's Triangle](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/recursion/_118_PascalS_Triangle)
