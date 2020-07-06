@@ -28,7 +28,7 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 
 ## Math
 1. [Fizz Buzz](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_412_Fizz_Buzz)
-2. [Number of Steps to Reduce a Number to Zero](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/_1342_Number_of_Steps_to_reduce_a_Number_to_zero)
+2. [Number of Steps to Reduce a Number to Zero](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_1342_Number_of_Steps_to_reduce_a_Number_to_zero)
 
 ## LinkedList
 1. [Palindrome Linked List](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/linkedlist/_234_Palindrome_Linked_List)
