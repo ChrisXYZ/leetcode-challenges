@@ -25,6 +25,9 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 7. [Contains Duplicates](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_217_Contains_Duplicates)
 8. [Running Sum of 1d Array](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_1480_Running_Sum_of_1d_Array)
 9. [How Many Numbers Are Smaller Than the Current Number](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/arrays/_1365_How_Many_Numbers_Are_Small_Than_the_Current_Number)
+10. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+11. [Destination City](https://leetcode.com/problems/destination-city/)
+12. [Number of Students Doing Homework at a Given Time](hhttps://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 
 ## Math
 1. [Fizz Buzz](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/math/_412_Fizz_Buzz)
