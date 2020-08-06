@@ -9,7 +9,7 @@ A repository containing all my completed coding challenges from LeetCode. I do n
 4. [Valid Parentheses](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_020_Valid_Parentheses)
 5. [Valid Palindrome](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_125_Valid_Palindrome)
 6. [Valid Anagram](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_242_Valid_Anagram)
-7. [Reverse String](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_344_Reverse_String)
+7. [Reverse String](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_344_Reverse_String) 
 8. [First Unique Character In a String](https://github.com/ChrisXYZ/leetcode-challenges/tree/master/src/string/_387_First_Unique_Character_in_a_String)
 
 ## Integer 
